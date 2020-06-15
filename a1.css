@@ -301,21 +301,26 @@ h4{
   padding: 15px;
   color: #fff;
 }
-
+.info h2{
+  font-size: 45px;
+}
 
 
 
 @media only screen and (max-width:480px) {
   .headerset span{
-    font-size: 30px;
+    font-size: 22px;
     font-weight: bold;
      
     color: rgb(250, 248, 246);
   
   }
+  h1{
+    font-size: 40px;
+  }
   .headerset h1{
   
-    font-size: 30px;
+    font-size: 22px;
 }
   .headerset h2{
   
@@ -326,6 +331,7 @@ h4{
 
 }
 
+
 .bgimg{
         
   background: url('nikita.jpg')no-repeat center center/cover;
@@ -334,6 +340,9 @@ h4{
   width: 100%;
   height: 600px;
   
+}
+.info h2{
+  font-size: 35px;
 }
 .gu .card{
   font-size: 18px;
