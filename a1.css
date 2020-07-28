@@ -142,7 +142,7 @@ button a{
   
   border-bottom: 2px solid rgb(255, 255, 255);
 }
-.abtme h2{
+.abtme h1{
   
   font-family: 'Mulish', sans-serif;
 }
@@ -318,7 +318,10 @@ h4{
   font-size: 45px;
 }
 
-
+h1{
+  font-family: 'Mulish', sans-serif;
+  text-shadow:4px black;
+}
 
 @media only screen and (max-width:480px) {
   .headerset span{
@@ -339,6 +342,7 @@ h4{
   
   h1{
     font-size: 40px;
+    font-family: 'Mulish', sans-serif;
   }
   .headerset h1{
   
